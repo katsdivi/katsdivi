@@ -1,62 +1,57 @@
-<h1 align="center">hey, i'm Divyam 👋</h1>
+# Hi there, I'm Divyam Kataria! 👋
 
-<p align="center">
-  <b>CS student · iOS & backend dev </b>
-</p>
+### 🎓 Computer Science Student @ Arizona State University
+**AI Researcher | Quant Enthusiast | Full-Stack Developer**
 
----
-
-## 🧠 what i'm into
-
-- building small tools that actually get used in real life (finance, automation, AI)
-- iOS + Python backends, REST APIs, and playing with LLMs
-- motorcycles, late-night coding sessions, and trying to stay consistent in the gym
+I am a developer and researcher passionate about the intersection of **Artificial Intelligence**, **Quantitative Finance**, and **Cybersecurity**. My work focuses on building intelligent systems that solve real-world problems—from optimizing sports betting strategies with ML to analyzing urban environments.
 
 ---
 
-## 🛠 tech i use a lot
+### 🛠️ Tech Stack
 
-- **languages:** Python, Swift, JavaScript/TypeScript, C++
-- **backend:** FastAPI / Flask, Node/Express, PostgreSQL, Redis
-- **mobile:** SwiftUI, UIKit, basic React Native
-- **infra:** GitHub Actions, Docker, Linux, nginx
-- **tools:** VS Code, Xcode, Postman, Obsidian
-
----
-
-## 📌 some things i've built
-
-- **project-name-1** – one-liner about what problem it solves and the stack you used  
-- **project-name-2** – another clear, outcome-focused description  
-- **project-name-3** – mention metrics if you have any (users, downloads, etc.)
-
-> replace these with actual repos and link them, e.g.:
-> - [budget-buddy](https://github.com/katsdivi/budget-buddy) – personal finance tracker with Python backend + iOS client
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | Python, C++, Dart (Flutter), SQL, JavaScript |
+| **AI & ML** | PyTorch, TensorFlow, LLMs, Pandas, NumPy, Scikit-learn |
+| **Development** | Flutter, React, Firebase, Git, Google Cloud Platform |
+| **Tools** | Jupyter, VS Code, Linux, Docker |
 
 ---
 
-## 📊 github at a glance
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katsdivi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
+#### 🐦 **[Pigeon](https://github.com/katsdivi/Tartan-Hacks-2026)**
+*🏆 **TartanHacks 2026 Submission***
+- **Overview:** My latest hackathon project built at CMU's TartanHacks.
+- **Status:** Recent Submission (Feb 2026).
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=katsdivi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+#### 🏈 **[EZParlays](https://github.com/katsdivi/EZParlays)**
+*An AI-powered sports prediction model focused on the NFL.*
+- **Goal:** Developing a "sports betting hedge fund" by leveraging machine learning to predict game outcomes and optimize parlay strategies.
+- **Tech:** Python, Machine Learning, Data Analytics.
+
+#### 🍽️ **[SayNSave](https://github.com/katsdivi/SayNSave)**
+*A student-run "secret shopper" platform connecting ASU students with local restaurants.*
+- **Mission:** Students get discounted meals in exchange for providing detailed feedback to restaurants, helping local businesses grow while saving students money.
+- **Tech:** Flutter, Firebase.
+
+#### 🏙️ **[Urban Vitals](https://github.com/katsdivi/Urban_Vitals)**
+*🏆 **HackMIT 2025 Honorable Mention***
+- **Overview:** A data analytics platform that assesses neighborhood quality via a "Green Score" based on environmental and infrastructure factors.
+- **Tech:** Python, Geoapify API, US Census API, OpenWeatherMap.
+
+#### 🌙 **[MidKnight](https://github.com/katsdivi/MidKnight)**
+- **Overview:** A command-line interface (CLI) tool designed for privacy and efficiency.
 
 ---
 
-## 🚀 what i'm doing now
+### 📊 GitHub Stats
 
-- experimenting with small AI-powered utilities (personal automation, sports data, etc.)
-- learning more about systems design and scalable APIs
-- trying to keep a good split between shipping code and learning fundamentals
+![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katsdivi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katsdivi&layout=compact&theme=radical)
 
 ---
 
-## 📫 how to reach me
-
-- email: `your-email@domain.com`
-- linkedin / twitter / whatever you actually use
-
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyam%20Kataria-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
