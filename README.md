@@ -29,7 +29,6 @@ Repo: https://github.com/katsdivi/Tartan-Hacks-2026
 **Quantitative sports prediction and parlay optimization system (NFL)**
 - ML-driven predictions + portfolio style strategy building
 - Data pipelines for odds, features, evaluation, and backtesting
-Repo: https://github.com/katsdivi/EZParlays
 
 ### 🏙️ Urban Vitals (HackMIT Honorable Mention)
 **Neighborhood intelligence and “Green Score” analytics**
