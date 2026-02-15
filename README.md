@@ -1,7 +1,7 @@
-<h1 align="center">hey, i'm kat 👋</h1>
+<h1 align="center">hey, i'm Divyam 👋</h1>
 
 <p align="center">
-  <b>CS student · iOS & backend dev · motorcycle enjoyer</b>
+  <b>CS student · iOS & backend dev </b>
 </p>
 
 ---
