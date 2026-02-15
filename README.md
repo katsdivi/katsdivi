@@ -1,57 +1,84 @@
-# Hi there, I'm Divyam Kataria! 👋
+# Hi, I’m Divyam Kataria 👋
 
-### 🎓 Computer Science Student @ Arizona State University
-**AI Researcher | Quant Enthusiast | Full-Stack Developer**
+### Computer Science @ Arizona State University
+**AI Systems Builder | Quant Finance Developer | Full-Stack Engineer**
 
-I am a developer and researcher passionate about the intersection of **Artificial Intelligence**, **Quantitative Finance**, and **Cybersecurity**. My work focuses on building intelligent systems that solve real-world problems—from optimizing sports betting strategies with ML to analyzing urban environments.
+I build intelligent, product-focused systems across **personal finance, quantitative modeling, and real-world data intelligence**. I care about shipping usable tools with strong engineering fundamentals: retrieval, latency, evaluation, privacy, and real users.
 
----
-
-### 🛠️ Tech Stack
-
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | Python, C++, Dart (Flutter), SQL, JavaScript |
-| **AI & ML** | PyTorch, TensorFlow, LLMs, Pandas, NumPy, Scikit-learn |
-| **Development** | Flutter, React, Firebase, Git, Google Cloud Platform |
-| **Tools** | Jupyter, VS Code, Linux, Docker |
+**Currently building:** **Contextual**, a local semantic search engine (Spotlight replacement) that makes your files and knowledge base actually searchable.
 
 ---
 
-### 🚀 Featured Projects
+## ⭐ Featured Projects (start here)
 
-#### 🐦 **[Pigeon](https://github.com/katsdivi/Tartan-Hacks-2026)**
-*🏆 **TartanHacks 2026 Submission***
-- **Overview:** My latest hackathon project built at CMU's TartanHacks.
-- **Status:** Recent Submission (Feb 2026).
+### 🔎 Contextual (Currently building)
+**AI replacement for Apple Spotlight using semantic search**
+- Local-first semantic indexing and retrieval for fast search
+- Privacy-first architecture (on-device workflows)
+- Swift app components + Python retrieval backend
+Repo: https://github.com/katsdivi/Contextual
 
-#### 🏈 **[EZParlays](https://github.com/katsdivi/EZParlays)**
-*An AI-powered sports prediction model focused on the NFL.*
-- **Goal:** Developing a "sports betting hedge fund" by leveraging machine learning to predict game outcomes and optimize parlay strategies.
-- **Tech:** Python, Machine Learning, Data Analytics.
+### 🐦 Pigeon (TartanHacks 2026)
+**AI financial advisor with behavioral and location-aware intelligence**
+- “Regret Score” style analysis for purchases and patterns
+- Location-based spend risk alerts (“danger zones”)
+- Expo (React Native) + FastAPI backend + Plaid integration
+Repo: https://github.com/katsdivi/Tartan-Hacks-2026
 
-#### 🍽️ **[SayNSave](https://github.com/katsdivi/SayNSave)**
-*A student-run "secret shopper" platform connecting ASU students with local restaurants.*
-- **Mission:** Students get discounted meals in exchange for providing detailed feedback to restaurants, helping local businesses grow while saving students money.
-- **Tech:** Flutter, Firebase.
+### 🏈 EZParlays
+**Quantitative sports prediction and parlay optimization system (NFL)**
+- ML-driven predictions + portfolio style strategy building
+- Data pipelines for odds, features, evaluation, and backtesting
+Repo: https://github.com/katsdivi/EZParlays
 
-#### 🏙️ **[Urban Vitals](https://github.com/katsdivi/Urban_Vitals)**
-*🏆 **HackMIT 2025 Honorable Mention***
-- **Overview:** A data analytics platform that assesses neighborhood quality via a "Green Score" based on environmental and infrastructure factors.
-- **Tech:** Python, Geoapify API, US Census API, OpenWeatherMap.
+### 🏙️ Urban Vitals (HackMIT Honorable Mention)
+**Neighborhood intelligence and “Green Score” analytics**
+- Evaluates livability using environmental and infrastructure signals
+- Integrates Geoapify, US Census, OpenWeatherMap pipelines
+Repo: https://github.com/katsdivi/Urban_Vitals
 
-#### 🌙 **[MidKnight](https://github.com/katsdivi/MidKnight)**
-- **Overview:** A command-line interface (CLI) tool designed for privacy and efficiency.
+### 🍽️ SayNSave
+**Secret shopper platform connecting students and local restaurants**
+- Students get discounted meals for structured feedback
+- Flutter app + Firebase backend
+Repo: https://github.com/katsdivi/SayNSave
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Other Projects
+### 🍴 Grubsy
+**Automation and data pipeline tooling (scraping + ingestion utilities)**
+Repo: https://github.com/katsdivi/Grubsy
 
-![Divyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=katsdivi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katsdivi&layout=compact&theme=radical)
+### 🌙 MidKnight
+**Privacy-focused CLI tool for fast workflows**
+Repo: https://github.com/katsdivi/MidKnight
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyam%20Kataria-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+## What I’m good at
+- **AI + ML systems:** evaluation loops, retrieval, data pipelines, LLM integrations
+- **Product engineering:** prototypes that become shippable apps
+- **Full-stack:** mobile + backend APIs + databases + integrations
+- **Systems mindset:** latency, reliability, privacy, and real-world constraints
+
+---
+
+## Tech Stack
+**Languages:** Python, C++, Swift, JavaScript/TypeScript, Dart, SQL  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, LLM systems  
+**Development:** React Native (Expo), Flutter, FastAPI, Firebase  
+**Tools:** Git, Docker, Linux, Jupyter, VS Code
+
+---
+
+## What I’m focused on this year
+- Contextual: local semantic search, indexing, ranking, UX speed
+- Personal finance intelligence: behavior-based insights and smart nudges
+- Quant modeling: prediction + optimization with clean evaluation
+
+---
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/your-linkedin-handle  
+Email: your-email@example.com
