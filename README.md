@@ -79,5 +79,6 @@ Repo: https://github.com/katsdivi/MidKnight
 ---
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/your-linkedin-handle  
-Email: your-email@example.com
+**LinkedIn:** www.linkedin.com/in/divyamkataria
+
+**Email:** divyam1211@yahoo.com / divyam@asu.edu
