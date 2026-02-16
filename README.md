@@ -30,7 +30,7 @@ Repo: https://github.com/katsdivi/Tartan-Hacks-2026
 - ML-driven predictions + portfolio style strategy building
 - Data pipelines for odds, features, evaluation, and backtesting
 
-### 🏙️ Urban Vitals (HackMIT Honorable Mention)
+### 🏙️ Urban Vitals (HackMIT Best Use of Tandemn AI)
 **Neighborhood intelligence and “Green Score” analytics**
 - Evaluates livability using environmental and infrastructure signals
 - Integrates Geoapify, US Census, OpenWeatherMap pipelines
