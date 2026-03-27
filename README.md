@@ -112,11 +112,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=katsdivi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
 
 <div align="center">
 
