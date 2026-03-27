@@ -43,17 +43,17 @@
 <div align="center">
 
 <a href="https://github.com/katsdivi/Pigeon.">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2b1a&height=90&text=🐦%20Pigeon&fontColor=56d364&fontSize=28&fontAlignY=40&desc=Behavioral%20finance%20AI%20·%20XGBoost%20regret%20scoring%20·%20iOS%20geofencing%20·%20Plaid&descColor=79c0ff&descSize=12&descAlignY=70&stroke=56d364&strokeWidth=1" width="49%" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d2b1a&height=150&text=🐦%20Pigeon&fontColor=56d364&fontSize=30&fontAlignY=42&desc=Behavioral%20finance%20AI%20·%20XGBoost%20regret%20scoring%20·%20iOS%20geofencing%20·%20Plaid&descColor=79c0ff&descSize=13&descAlignY=68&stroke=56d364&strokeWidth=1" style="border-radius: 25px;" width="47%" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/sherwinvishesh/Clippi">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1a2b&height=90&text=✂️%20Clippi&fontColor=00e5ff&fontSize=28&fontAlignY=40&desc=AI%20video%20engine%20·%20Mistral%20VLM%20·%20SAM2%20·%20YOLO%20·%20ElevenLabs&descColor=79c0ff&descSize=12&descAlignY=70&stroke=00e5ff&strokeWidth=1" width="49%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1a2b&height=150&text=✂️%20Clippi&fontColor=00e5ff&fontSize=30&fontAlignY=42&desc=AI%20video%20engine%20·%20Mistral%20VLM%20·%20SAM2%20·%20YOLO%20·%20ElevenLabs&descColor=79c0ff&descSize=13&descAlignY=68&stroke=00e5ff&strokeWidth=1" style="border-radius: 25px;" width="47%" />
 </a>
 
 <a href="https://github.com/katsdivi/Urban_Vitals">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f0d00&height=90&text=🏙️%20Urban%20Vitals&fontColor=f0883e&fontSize=28&fontAlignY=40&desc=RAG%20simulator%20·%2015%2B%20geospatial%20streams%20·%20🏆%20Best%20AI%20by%20Tandemn%20@%20HackMIT%202025&descColor=79c0ff&descSize=12&descAlignY=70&stroke=f0883e&strokeWidth=1" width="49%" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f0d00&height=150&text=🏙️%20Urban%20Vitals&fontColor=f0883e&fontSize=30&fontAlignY=42&desc=RAG%20simulator%20·%2015%2B%20geospatial%20streams%20·%20🏆%20Best%20AI%20by%20Tandemn%20@%20HackMIT%202025&descColor=79c0ff&descSize=13&descAlignY=68&stroke=f0883e&strokeWidth=1" style="border-radius: 25px;" width="47%" />
+</a>&nbsp;&nbsp;
 <a href="https://github.com/katsdivi/Contextual">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0d2b&height=90&text=🔎%20Contextual&fontColor=e040fb&fontSize=28&fontAlignY=40&desc=Local%20semantic%20search%20·%20privacy-first%20·%20on-device%20ML%20·%20WIP&descColor=79c0ff&descSize=12&descAlignY=70&stroke=e040fb&strokeWidth=1" width="49%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a0d2b&height=150&text=🔎%20Contextual&fontColor=e040fb&fontSize=30&fontAlignY=42&desc=Local%20semantic%20search%20·%20privacy-first%20·%20on-device%20ML%20·%20WIP&descColor=79c0ff&descSize=13&descAlignY=68&stroke=e040fb&strokeWidth=1" style="border-radius: 25px;" width="47%" />
 </a>
 
 <br/>
