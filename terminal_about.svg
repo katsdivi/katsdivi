@@ -1,0 +1,774 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="719" height="398" viewBox="0 0 719 398">
+  <defs><style>text{font-family:Fira Code, Cascadia Code, Consolas, monospace;font-size:13px;}</style></defs>
+  <rect width="719" height="398" rx="10" fill="#0d1117"/>
+  <rect x="1" y="1" width="717" height="396" rx="9" fill="none" stroke="#e040fb" stroke-width="1.5"/>
+  <circle cx="18" cy="16" r="5" fill="#ff5f57"/>
+  <circle cx="34" cy="16" r="5" fill="#febc2e"/>
+  <circle cx="50" cy="16" r="5" fill="#28c840"/>
+  <line x1="0" y1="28" x2="719" y2="28" stroke="#e040fb" stroke-width="0.5" opacity="0.35"/>
+  <text x="18.0" y="54" fill="#e040fb" opacity="0">/<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.500s" fill="freeze"/></text>
+  <text x="26.4" y="54" fill="#e040fb" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.571s" fill="freeze"/></text>
+  <text x="34.8" y="54" fill="#e040fb" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.643s" fill="freeze"/></text>
+  <text x="43.2" y="54" fill="#e040fb" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.714s" fill="freeze"/></text>
+  <text x="51.6" y="54" fill="#e040fb" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.786s" fill="freeze"/></text>
+  <text x="60.0" y="54" fill="#e040fb" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.857s" fill="freeze"/></text>
+  <text x="68.4" y="54" fill="#e040fb" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.929s" fill="freeze"/></text>
+  <text x="76.8" y="54" fill="#e040fb" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.000s" fill="freeze"/></text>
+  <text x="85.2" y="54" fill="#e040fb" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.071s" fill="freeze"/></text>
+  <text x="93.6" y="54" fill="#00e5ff" opacity="0">$<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.143s" fill="freeze"/></text>
+  <text x="102.0" y="54" fill="#00e5ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.214s" fill="freeze"/></text>
+  <text x="110.4" y="54" fill="#ffffff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.286s" fill="freeze"/></text>
+  <text x="118.8" y="54" fill="#ffffff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.357s" fill="freeze"/></text>
+  <text x="127.2" y="54" fill="#ffffff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.429s" fill="freeze"/></text>
+  <text x="135.6" y="54" fill="#ffffff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.500s" fill="freeze"/></text>
+  <text x="144.0" y="54" fill="#ffffff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.571s" fill="freeze"/></text>
+  <text x="152.4" y="54" fill="#ffffff" opacity="0">b<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.643s" fill="freeze"/></text>
+  <text x="160.8" y="54" fill="#ffffff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.714s" fill="freeze"/></text>
+  <text x="169.2" y="54" fill="#ffffff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.786s" fill="freeze"/></text>
+  <text x="177.6" y="54" fill="#ffffff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.857s" fill="freeze"/></text>
+  <text x="186.0" y="54" fill="#ffffff" opacity="0">.<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.929s" fill="freeze"/></text>
+  <text x="194.4" y="54" fill="#ffffff" opacity="0">j<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.000s" fill="freeze"/></text>
+  <text x="202.8" y="54" fill="#ffffff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.071s" fill="freeze"/></text>
+  <text x="211.2" y="54" fill="#ffffff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.143s" fill="freeze"/></text>
+  <text x="219.6" y="54" fill="#ffffff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.214s" fill="freeze"/></text>
+  <text x="18.0" y="74" fill="#c9d1d9" opacity="0">{<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.406s" fill="freeze"/></text>
+  <text x="18.0" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.567s" fill="freeze"/></text>
+  <text x="26.4" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.609s" fill="freeze"/></text>
+  <text x="34.8" y="94" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.651s" fill="freeze"/></text>
+  <text x="43.2" y="94" fill="#56d364" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.692s" fill="freeze"/></text>
+  <text x="51.6" y="94" fill="#56d364" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.734s" fill="freeze"/></text>
+  <text x="60.0" y="94" fill="#56d364" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.776s" fill="freeze"/></text>
+  <text x="68.4" y="94" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.817s" fill="freeze"/></text>
+  <text x="76.8" y="94" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.859s" fill="freeze"/></text>
+  <text x="85.2" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.901s" fill="freeze"/></text>
+  <text x="93.6" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.942s" fill="freeze"/></text>
+  <text x="102.0" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.984s" fill="freeze"/></text>
+  <text x="110.4" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.026s" fill="freeze"/></text>
+  <text x="118.8" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.067s" fill="freeze"/></text>
+  <text x="127.2" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.109s" fill="freeze"/></text>
+  <text x="135.6" y="94" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.151s" fill="freeze"/></text>
+  <text x="144.0" y="94" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.192s" fill="freeze"/></text>
+  <text x="152.4" y="94" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.234s" fill="freeze"/></text>
+  <text x="160.8" y="94" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.276s" fill="freeze"/></text>
+  <text x="169.2" y="94" fill="#79c0ff" opacity="0">D<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.317s" fill="freeze"/></text>
+  <text x="177.6" y="94" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.359s" fill="freeze"/></text>
+  <text x="186.0" y="94" fill="#79c0ff" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.401s" fill="freeze"/></text>
+  <text x="194.4" y="94" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.442s" fill="freeze"/></text>
+  <text x="202.8" y="94" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.484s" fill="freeze"/></text>
+  <text x="211.2" y="94" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.526s" fill="freeze"/></text>
+  <text x="219.6" y="94" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.567s" fill="freeze"/></text>
+  <text x="228.0" y="94" fill="#79c0ff" opacity="0">K<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.609s" fill="freeze"/></text>
+  <text x="236.4" y="94" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.651s" fill="freeze"/></text>
+  <text x="244.8" y="94" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.692s" fill="freeze"/></text>
+  <text x="253.2" y="94" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.734s" fill="freeze"/></text>
+  <text x="261.6" y="94" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.776s" fill="freeze"/></text>
+  <text x="270.0" y="94" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.817s" fill="freeze"/></text>
+  <text x="278.4" y="94" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.859s" fill="freeze"/></text>
+  <text x="286.8" y="94" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.901s" fill="freeze"/></text>
+  <text x="295.2" y="94" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="3.942s" fill="freeze"/></text>
+  <text x="18.0" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.104s" fill="freeze"/></text>
+  <text x="26.4" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.146s" fill="freeze"/></text>
+  <text x="34.8" y="114" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.187s" fill="freeze"/></text>
+  <text x="43.2" y="114" fill="#56d364" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.229s" fill="freeze"/></text>
+  <text x="51.6" y="114" fill="#56d364" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.271s" fill="freeze"/></text>
+  <text x="60.0" y="114" fill="#56d364" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.312s" fill="freeze"/></text>
+  <text x="68.4" y="114" fill="#56d364" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.354s" fill="freeze"/></text>
+  <text x="76.8" y="114" fill="#56d364" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.396s" fill="freeze"/></text>
+  <text x="85.2" y="114" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.437s" fill="freeze"/></text>
+  <text x="93.6" y="114" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.479s" fill="freeze"/></text>
+  <text x="102.0" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.521s" fill="freeze"/></text>
+  <text x="110.4" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.562s" fill="freeze"/></text>
+  <text x="118.8" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.604s" fill="freeze"/></text>
+  <text x="127.2" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.646s" fill="freeze"/></text>
+  <text x="135.6" y="114" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.687s" fill="freeze"/></text>
+  <text x="144.0" y="114" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.729s" fill="freeze"/></text>
+  <text x="152.4" y="114" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.771s" fill="freeze"/></text>
+  <text x="160.8" y="114" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.812s" fill="freeze"/></text>
+  <text x="169.2" y="114" fill="#79c0ff" opacity="0">k<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.854s" fill="freeze"/></text>
+  <text x="177.6" y="114" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.896s" fill="freeze"/></text>
+  <text x="186.0" y="114" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.937s" fill="freeze"/></text>
+  <text x="194.4" y="114" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.979s" fill="freeze"/></text>
+  <text x="202.8" y="114" fill="#79c0ff" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.021s" fill="freeze"/></text>
+  <text x="211.2" y="114" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.062s" fill="freeze"/></text>
+  <text x="219.6" y="114" fill="#79c0ff" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.104s" fill="freeze"/></text>
+  <text x="228.0" y="114" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.146s" fill="freeze"/></text>
+  <text x="236.4" y="114" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.187s" fill="freeze"/></text>
+  <text x="244.8" y="114" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.229s" fill="freeze"/></text>
+  <text x="18.0" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.391s" fill="freeze"/></text>
+  <text x="26.4" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.432s" fill="freeze"/></text>
+  <text x="34.8" y="134" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.474s" fill="freeze"/></text>
+  <text x="43.2" y="134" fill="#56d364" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.516s" fill="freeze"/></text>
+  <text x="51.6" y="134" fill="#56d364" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.557s" fill="freeze"/></text>
+  <text x="60.0" y="134" fill="#56d364" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.599s" fill="freeze"/></text>
+  <text x="68.4" y="134" fill="#56d364" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.641s" fill="freeze"/></text>
+  <text x="76.8" y="134" fill="#56d364" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.682s" fill="freeze"/></text>
+  <text x="85.2" y="134" fill="#56d364" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.724s" fill="freeze"/></text>
+  <text x="93.6" y="134" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.766s" fill="freeze"/></text>
+  <text x="102.0" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.807s" fill="freeze"/></text>
+  <text x="110.4" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.849s" fill="freeze"/></text>
+  <text x="118.8" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.891s" fill="freeze"/></text>
+  <text x="127.2" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.932s" fill="freeze"/></text>
+  <text x="135.6" y="134" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="5.974s" fill="freeze"/></text>
+  <text x="144.0" y="134" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.016s" fill="freeze"/></text>
+  <text x="152.4" y="134" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.057s" fill="freeze"/></text>
+  <text x="160.8" y="134" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.099s" fill="freeze"/></text>
+  <text x="169.2" y="134" fill="#79c0ff" opacity="0">I<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.141s" fill="freeze"/></text>
+  <text x="177.6" y="134" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.182s" fill="freeze"/></text>
+  <text x="186.0" y="134" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.224s" fill="freeze"/></text>
+  <text x="194.4" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.266s" fill="freeze"/></text>
+  <text x="202.8" y="134" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.307s" fill="freeze"/></text>
+  <text x="211.2" y="134" fill="#79c0ff" opacity="0">.<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.349s" fill="freeze"/></text>
+  <text x="219.6" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.391s" fill="freeze"/></text>
+  <text x="228.0" y="134" fill="#79c0ff" opacity="0">F<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.432s" fill="freeze"/></text>
+  <text x="236.4" y="134" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.474s" fill="freeze"/></text>
+  <text x="244.8" y="134" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.516s" fill="freeze"/></text>
+  <text x="253.2" y="134" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.557s" fill="freeze"/></text>
+  <text x="261.6" y="134" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.599s" fill="freeze"/></text>
+  <text x="270.0" y="134" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.641s" fill="freeze"/></text>
+  <text x="278.4" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.682s" fill="freeze"/></text>
+  <text x="286.8" y="134" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.724s" fill="freeze"/></text>
+  <text x="295.2" y="134" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.766s" fill="freeze"/></text>
+  <text x="303.6" y="134" fill="#79c0ff" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.807s" fill="freeze"/></text>
+  <text x="312.0" y="134" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.849s" fill="freeze"/></text>
+  <text x="320.4" y="134" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.891s" fill="freeze"/></text>
+  <text x="328.8" y="134" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.932s" fill="freeze"/></text>
+  <text x="337.2" y="134" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="6.974s" fill="freeze"/></text>
+  <text x="345.6" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.016s" fill="freeze"/></text>
+  <text x="354.0" y="134" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.057s" fill="freeze"/></text>
+  <text x="362.4" y="134" fill="#79c0ff" opacity="0">f<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.099s" fill="freeze"/></text>
+  <text x="370.8" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.141s" fill="freeze"/></text>
+  <text x="379.2" y="134" fill="#79c0ff" opacity="0">E<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.182s" fill="freeze"/></text>
+  <text x="387.6" y="134" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.224s" fill="freeze"/></text>
+  <text x="396.0" y="134" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.266s" fill="freeze"/></text>
+  <text x="404.4" y="134" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.307s" fill="freeze"/></text>
+  <text x="412.8" y="134" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.349s" fill="freeze"/></text>
+  <text x="421.2" y="134" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.391s" fill="freeze"/></text>
+  <text x="429.6" y="134" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.432s" fill="freeze"/></text>
+  <text x="438.0" y="134" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.474s" fill="freeze"/></text>
+  <text x="446.4" y="134" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.516s" fill="freeze"/></text>
+  <text x="454.8" y="134" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.557s" fill="freeze"/></text>
+  <text x="463.2" y="134" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.599s" fill="freeze"/></text>
+  <text x="471.6" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.641s" fill="freeze"/></text>
+  <text x="480.0" y="134" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.682s" fill="freeze"/></text>
+  <text x="488.4" y="134" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.724s" fill="freeze"/></text>
+  <text x="496.8" y="134" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.766s" fill="freeze"/></text>
+  <text x="505.2" y="134" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.807s" fill="freeze"/></text>
+  <text x="513.6" y="134" fill="#79c0ff" opacity="0">U<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.849s" fill="freeze"/></text>
+  <text x="522.0" y="134" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.891s" fill="freeze"/></text>
+  <text x="530.4" y="134" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="7.932s" fill="freeze"/></text>
+  <text x="18.0" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.094s" fill="freeze"/></text>
+  <text x="26.4" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.136s" fill="freeze"/></text>
+  <text x="34.8" y="154" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.177s" fill="freeze"/></text>
+  <text x="43.2" y="154" fill="#56d364" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.219s" fill="freeze"/></text>
+  <text x="51.6" y="154" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.261s" fill="freeze"/></text>
+  <text x="60.0" y="154" fill="#56d364" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.302s" fill="freeze"/></text>
+  <text x="68.4" y="154" fill="#56d364" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.344s" fill="freeze"/></text>
+  <text x="76.8" y="154" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.386s" fill="freeze"/></text>
+  <text x="85.2" y="154" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.427s" fill="freeze"/></text>
+  <text x="93.6" y="154" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.469s" fill="freeze"/></text>
+  <text x="102.0" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.511s" fill="freeze"/></text>
+  <text x="110.4" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.552s" fill="freeze"/></text>
+  <text x="118.8" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.594s" fill="freeze"/></text>
+  <text x="127.2" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.636s" fill="freeze"/></text>
+  <text x="135.6" y="154" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.677s" fill="freeze"/></text>
+  <text x="144.0" y="154" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.719s" fill="freeze"/></text>
+  <text x="152.4" y="154" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.761s" fill="freeze"/></text>
+  <text x="160.8" y="154" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.802s" fill="freeze"/></text>
+  <text x="169.2" y="154" fill="#79c0ff" opacity="0">B<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.844s" fill="freeze"/></text>
+  <text x="177.6" y="154" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.886s" fill="freeze"/></text>
+  <text x="186.0" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.927s" fill="freeze"/></text>
+  <text x="194.4" y="154" fill="#79c0ff" opacity="0">C<animate attributeName="opacity" values="0;1" dur="0.01s" begin="8.969s" fill="freeze"/></text>
+  <text x="202.8" y="154" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.011s" fill="freeze"/></text>
+  <text x="211.2" y="154" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.052s" fill="freeze"/></text>
+  <text x="219.6" y="154" fill="#79c0ff" opacity="0">p<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.094s" fill="freeze"/></text>
+  <text x="228.0" y="154" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.136s" fill="freeze"/></text>
+  <text x="236.4" y="154" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.177s" fill="freeze"/></text>
+  <text x="244.8" y="154" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.219s" fill="freeze"/></text>
+  <text x="253.2" y="154" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.261s" fill="freeze"/></text>
+  <text x="261.6" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.302s" fill="freeze"/></text>
+  <text x="270.0" y="154" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.344s" fill="freeze"/></text>
+  <text x="278.4" y="154" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.386s" fill="freeze"/></text>
+  <text x="286.8" y="154" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.427s" fill="freeze"/></text>
+  <text x="295.2" y="154" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.469s" fill="freeze"/></text>
+  <text x="303.6" y="154" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.511s" fill="freeze"/></text>
+  <text x="312.0" y="154" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.552s" fill="freeze"/></text>
+  <text x="320.4" y="154" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.594s" fill="freeze"/></text>
+  <text x="328.8" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.636s" fill="freeze"/></text>
+  <text x="337.2" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.677s" fill="freeze"/></text>
+  <text x="345.6" y="154" fill="#79c0ff" opacity="0">|<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.719s" fill="freeze"/></text>
+  <text x="354.0" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.761s" fill="freeze"/></text>
+  <text x="362.4" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.802s" fill="freeze"/></text>
+  <text x="370.8" y="154" fill="#79c0ff" opacity="0">G<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.844s" fill="freeze"/></text>
+  <text x="379.2" y="154" fill="#79c0ff" opacity="0">P<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.886s" fill="freeze"/></text>
+  <text x="387.6" y="154" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.927s" fill="freeze"/></text>
+  <text x="396.0" y="154" fill="#79c0ff" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="9.969s" fill="freeze"/></text>
+  <text x="404.4" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.011s" fill="freeze"/></text>
+  <text x="412.8" y="154" fill="#79c0ff" opacity="0">3<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.052s" fill="freeze"/></text>
+  <text x="421.2" y="154" fill="#79c0ff" opacity="0">.<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.094s" fill="freeze"/></text>
+  <text x="429.6" y="154" fill="#79c0ff" opacity="0">9<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.136s" fill="freeze"/></text>
+  <text x="438.0" y="154" fill="#79c0ff" opacity="0">7<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.177s" fill="freeze"/></text>
+  <text x="446.4" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.219s" fill="freeze"/></text>
+  <text x="454.8" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.261s" fill="freeze"/></text>
+  <text x="463.2" y="154" fill="#79c0ff" opacity="0">|<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.302s" fill="freeze"/></text>
+  <text x="471.6" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.344s" fill="freeze"/></text>
+  <text x="480.0" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.386s" fill="freeze"/></text>
+  <text x="488.4" y="154" fill="#79c0ff" opacity="0">M<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.427s" fill="freeze"/></text>
+  <text x="496.8" y="154" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.469s" fill="freeze"/></text>
+  <text x="505.2" y="154" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.511s" fill="freeze"/></text>
+  <text x="513.6" y="154" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.552s" fill="freeze"/></text>
+  <text x="522.0" y="154" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.594s" fill="freeze"/></text>
+  <text x="530.4" y="154" fill="#79c0ff" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.636s" fill="freeze"/></text>
+  <text x="538.8" y="154" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.677s" fill="freeze"/></text>
+  <text x="547.2" y="154" fill="#79c0ff" opacity="0">M<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.719s" fill="freeze"/></text>
+  <text x="555.6" y="154" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.761s" fill="freeze"/></text>
+  <text x="564.0" y="154" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.802s" fill="freeze"/></text>
+  <text x="572.4" y="154" fill="#79c0ff" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.844s" fill="freeze"/></text>
+  <text x="580.8" y="154" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.886s" fill="freeze"/></text>
+  <text x="589.2" y="154" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.927s" fill="freeze"/></text>
+  <text x="597.6" y="154" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="10.969s" fill="freeze"/></text>
+  <text x="606.0" y="154" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.011s" fill="freeze"/></text>
+  <text x="614.4" y="154" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.052s" fill="freeze"/></text>
+  <text x="622.8" y="154" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.094s" fill="freeze"/></text>
+  <text x="631.2" y="154" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.136s" fill="freeze"/></text>
+  <text x="639.6" y="154" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.177s" fill="freeze"/></text>
+  <text x="648.0" y="154" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.219s" fill="freeze"/></text>
+  <text x="18.0" y="174" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.381s" fill="freeze"/></text>
+  <text x="26.4" y="174" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.422s" fill="freeze"/></text>
+  <text x="34.8" y="174" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.464s" fill="freeze"/></text>
+  <text x="43.2" y="174" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.506s" fill="freeze"/></text>
+  <text x="51.6" y="174" fill="#56d364" opacity="0">x<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.547s" fill="freeze"/></text>
+  <text x="60.0" y="174" fill="#56d364" opacity="0">p<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.589s" fill="freeze"/></text>
+  <text x="68.4" y="174" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.631s" fill="freeze"/></text>
+  <text x="76.8" y="174" fill="#56d364" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.672s" fill="freeze"/></text>
+  <text x="85.2" y="174" fill="#56d364" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.714s" fill="freeze"/></text>
+  <text x="93.6" y="174" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.756s" fill="freeze"/></text>
+  <text x="102.0" y="174" fill="#56d364" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.797s" fill="freeze"/></text>
+  <text x="110.4" y="174" fill="#56d364" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.839s" fill="freeze"/></text>
+  <text x="118.8" y="174" fill="#56d364" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.881s" fill="freeze"/></text>
+  <text x="127.2" y="174" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.922s" fill="freeze"/></text>
+  <text x="135.6" y="174" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="11.964s" fill="freeze"/></text>
+  <text x="144.0" y="174" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.006s" fill="freeze"/></text>
+  <text x="152.4" y="174" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.047s" fill="freeze"/></text>
+  <text x="160.8" y="174" fill="#c9d1d9" opacity="0">[<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.089s" fill="freeze"/></text>
+  <text x="18.0" y="194" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.251s" fill="freeze"/></text>
+  <text x="26.4" y="194" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.292s" fill="freeze"/></text>
+  <text x="34.8" y="194" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.334s" fill="freeze"/></text>
+  <text x="43.2" y="194" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.376s" fill="freeze"/></text>
+  <text x="51.6" y="194" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.417s" fill="freeze"/></text>
+  <text x="60.0" y="194" fill="#79c0ff" opacity="0">E<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.459s" fill="freeze"/></text>
+  <text x="68.4" y="194" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.501s" fill="freeze"/></text>
+  <text x="76.8" y="194" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.542s" fill="freeze"/></text>
+  <text x="85.2" y="194" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.584s" fill="freeze"/></text>
+  <text x="93.6" y="194" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.626s" fill="freeze"/></text>
+  <text x="102.0" y="194" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.667s" fill="freeze"/></text>
+  <text x="110.4" y="194" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.709s" fill="freeze"/></text>
+  <text x="118.8" y="194" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.751s" fill="freeze"/></text>
+  <text x="127.2" y="194" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.792s" fill="freeze"/></text>
+  <text x="135.6" y="194" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.834s" fill="freeze"/></text>
+  <text x="144.0" y="194" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.876s" fill="freeze"/></text>
+  <text x="152.4" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.917s" fill="freeze"/></text>
+  <text x="160.8" y="194" fill="#79c0ff" opacity="0">T<animate attributeName="opacity" values="0;1" dur="0.01s" begin="12.959s" fill="freeze"/></text>
+  <text x="169.2" y="194" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.001s" fill="freeze"/></text>
+  <text x="177.6" y="194" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.042s" fill="freeze"/></text>
+  <text x="186.0" y="194" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.084s" fill="freeze"/></text>
+  <text x="194.4" y="194" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.126s" fill="freeze"/></text>
+  <text x="202.8" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.167s" fill="freeze"/></text>
+  <text x="211.2" y="194" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.209s" fill="freeze"/></text>
+  <text x="219.6" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.251s" fill="freeze"/></text>
+  <text x="228.0" y="194" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.292s" fill="freeze"/></text>
+  <text x="236.4" y="194" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.334s" fill="freeze"/></text>
+  <text x="244.8" y="194" fill="#79c0ff" opacity="0">U<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.376s" fill="freeze"/></text>
+  <text x="253.2" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.417s" fill="freeze"/></text>
+  <text x="261.6" y="194" fill="#79c0ff" opacity="0">F<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.459s" fill="freeze"/></text>
+  <text x="270.0" y="194" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.501s" fill="freeze"/></text>
+  <text x="278.4" y="194" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.542s" fill="freeze"/></text>
+  <text x="286.8" y="194" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.584s" fill="freeze"/></text>
+  <text x="295.2" y="194" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.626s" fill="freeze"/></text>
+  <text x="303.6" y="194" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.667s" fill="freeze"/></text>
+  <text x="312.0" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.709s" fill="freeze"/></text>
+  <text x="320.4" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.751s" fill="freeze"/></text>
+  <text x="328.8" y="194" fill="#79c0ff" opacity="0">(<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.792s" fill="freeze"/></text>
+  <text x="337.2" y="194" fill="#79c0ff" opacity="0">M<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.834s" fill="freeze"/></text>
+  <text x="345.6" y="194" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.876s" fill="freeze"/></text>
+  <text x="354.0" y="194" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.917s" fill="freeze"/></text>
+  <text x="362.4" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="13.959s" fill="freeze"/></text>
+  <text x="370.8" y="194" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.001s" fill="freeze"/></text>
+  <text x="379.2" y="194" fill="#79c0ff" opacity="0">0<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.042s" fill="freeze"/></text>
+  <text x="387.6" y="194" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.084s" fill="freeze"/></text>
+  <text x="396.0" y="194" fill="#79c0ff" opacity="0">6<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.126s" fill="freeze"/></text>
+  <text x="404.4" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.167s" fill="freeze"/></text>
+  <text x="412.8" y="194" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.209s" fill="freeze"/></text>
+  <text x="421.2" y="194" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.251s" fill="freeze"/></text>
+  <text x="429.6" y="194" fill="#79c0ff" opacity="0">P<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.292s" fill="freeze"/></text>
+  <text x="438.0" y="194" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.334s" fill="freeze"/></text>
+  <text x="446.4" y="194" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.376s" fill="freeze"/></text>
+  <text x="454.8" y="194" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.417s" fill="freeze"/></text>
+  <text x="463.2" y="194" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.459s" fill="freeze"/></text>
+  <text x="471.6" y="194" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.501s" fill="freeze"/></text>
+  <text x="480.0" y="194" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.542s" fill="freeze"/></text>
+  <text x="488.4" y="194" fill="#79c0ff" opacity="0">)<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.584s" fill="freeze"/></text>
+  <text x="496.8" y="194" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.626s" fill="freeze"/></text>
+  <text x="505.2" y="194" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.667s" fill="freeze"/></text>
+  <text x="18.0" y="214" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.829s" fill="freeze"/></text>
+  <text x="26.4" y="214" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.871s" fill="freeze"/></text>
+  <text x="34.8" y="214" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.912s" fill="freeze"/></text>
+  <text x="43.2" y="214" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.954s" fill="freeze"/></text>
+  <text x="51.6" y="214" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="14.996s" fill="freeze"/></text>
+  <text x="60.0" y="214" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.037s" fill="freeze"/></text>
+  <text x="68.4" y="214" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.079s" fill="freeze"/></text>
+  <text x="76.8" y="214" fill="#79c0ff" opacity="0">b<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.121s" fill="freeze"/></text>
+  <text x="85.2" y="214" fill="#79c0ff" opacity="0">j<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.162s" fill="freeze"/></text>
+  <text x="93.6" y="214" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.204s" fill="freeze"/></text>
+  <text x="102.0" y="214" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.246s" fill="freeze"/></text>
+  <text x="110.4" y="214" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.287s" fill="freeze"/></text>
+  <text x="118.8" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.329s" fill="freeze"/></text>
+  <text x="127.2" y="214" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.371s" fill="freeze"/></text>
+  <text x="135.6" y="214" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.412s" fill="freeze"/></text>
+  <text x="144.0" y="214" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.454s" fill="freeze"/></text>
+  <text x="152.4" y="214" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.496s" fill="freeze"/></text>
+  <text x="160.8" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.537s" fill="freeze"/></text>
+  <text x="169.2" y="214" fill="#79c0ff" opacity="0">T<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.579s" fill="freeze"/></text>
+  <text x="177.6" y="214" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.621s" fill="freeze"/></text>
+  <text x="186.0" y="214" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.662s" fill="freeze"/></text>
+  <text x="194.4" y="214" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.704s" fill="freeze"/></text>
+  <text x="202.8" y="214" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.746s" fill="freeze"/></text>
+  <text x="211.2" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.787s" fill="freeze"/></text>
+  <text x="219.6" y="214" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.829s" fill="freeze"/></text>
+  <text x="228.0" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.871s" fill="freeze"/></text>
+  <text x="236.4" y="214" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.912s" fill="freeze"/></text>
+  <text x="244.8" y="214" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.954s" fill="freeze"/></text>
+  <text x="253.2" y="214" fill="#79c0ff" opacity="0">U<animate attributeName="opacity" values="0;1" dur="0.01s" begin="15.996s" fill="freeze"/></text>
+  <text x="261.6" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.037s" fill="freeze"/></text>
+  <text x="270.0" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.079s" fill="freeze"/></text>
+  <text x="278.4" y="214" fill="#79c0ff" opacity="0">(<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.121s" fill="freeze"/></text>
+  <text x="286.8" y="214" fill="#79c0ff" opacity="0">J<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.162s" fill="freeze"/></text>
+  <text x="295.2" y="214" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.204s" fill="freeze"/></text>
+  <text x="303.6" y="214" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.246s" fill="freeze"/></text>
+  <text x="312.0" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.287s" fill="freeze"/></text>
+  <text x="320.4" y="214" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.329s" fill="freeze"/></text>
+  <text x="328.8" y="214" fill="#79c0ff" opacity="0">0<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.371s" fill="freeze"/></text>
+  <text x="337.2" y="214" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.412s" fill="freeze"/></text>
+  <text x="345.6" y="214" fill="#79c0ff" opacity="0">5<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.454s" fill="freeze"/></text>
+  <text x="354.0" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.496s" fill="freeze"/></text>
+  <text x="362.4" y="214" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.537s" fill="freeze"/></text>
+  <text x="370.8" y="214" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.579s" fill="freeze"/></text>
+  <text x="379.2" y="214" fill="#79c0ff" opacity="0">P<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.621s" fill="freeze"/></text>
+  <text x="387.6" y="214" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.662s" fill="freeze"/></text>
+  <text x="396.0" y="214" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.704s" fill="freeze"/></text>
+  <text x="404.4" y="214" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.746s" fill="freeze"/></text>
+  <text x="412.8" y="214" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.787s" fill="freeze"/></text>
+  <text x="421.2" y="214" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.829s" fill="freeze"/></text>
+  <text x="429.6" y="214" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.871s" fill="freeze"/></text>
+  <text x="438.0" y="214" fill="#79c0ff" opacity="0">)<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.912s" fill="freeze"/></text>
+  <text x="446.4" y="214" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.954s" fill="freeze"/></text>
+  <text x="454.8" y="214" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="16.996s" fill="freeze"/></text>
+  <text x="18.0" y="234" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.157s" fill="freeze"/></text>
+  <text x="26.4" y="234" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.199s" fill="freeze"/></text>
+  <text x="34.8" y="234" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.241s" fill="freeze"/></text>
+  <text x="43.2" y="234" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.282s" fill="freeze"/></text>
+  <text x="51.6" y="234" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.324s" fill="freeze"/></text>
+  <text x="60.0" y="234" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.366s" fill="freeze"/></text>
+  <text x="68.4" y="234" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.407s" fill="freeze"/></text>
+  <text x="76.8" y="234" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.449s" fill="freeze"/></text>
+  <text x="85.2" y="234" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.491s" fill="freeze"/></text>
+  <text x="93.6" y="234" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.532s" fill="freeze"/></text>
+  <text x="102.0" y="234" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.574s" fill="freeze"/></text>
+  <text x="110.4" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.616s" fill="freeze"/></text>
+  <text x="118.8" y="234" fill="#79c0ff" opacity="0">I<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.657s" fill="freeze"/></text>
+  <text x="127.2" y="234" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.699s" fill="freeze"/></text>
+  <text x="135.6" y="234" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.741s" fill="freeze"/></text>
+  <text x="144.0" y="234" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.782s" fill="freeze"/></text>
+  <text x="152.4" y="234" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.824s" fill="freeze"/></text>
+  <text x="160.8" y="234" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.866s" fill="freeze"/></text>
+  <text x="169.2" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.907s" fill="freeze"/></text>
+  <text x="177.6" y="234" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.949s" fill="freeze"/></text>
+  <text x="186.0" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="17.991s" fill="freeze"/></text>
+  <text x="194.4" y="234" fill="#79c0ff" opacity="0">E<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.032s" fill="freeze"/></text>
+  <text x="202.8" y="234" fill="#79c0ff" opacity="0">Y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.074s" fill="freeze"/></text>
+  <text x="211.2" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.116s" fill="freeze"/></text>
+  <text x="219.6" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.157s" fill="freeze"/></text>
+  <text x="228.0" y="234" fill="#79c0ff" opacity="0">(<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.199s" fill="freeze"/></text>
+  <text x="236.4" y="234" fill="#79c0ff" opacity="0">J<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.241s" fill="freeze"/></text>
+  <text x="244.8" y="234" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.282s" fill="freeze"/></text>
+  <text x="253.2" y="234" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.324s" fill="freeze"/></text>
+  <text x="261.6" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.366s" fill="freeze"/></text>
+  <text x="270.0" y="234" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.407s" fill="freeze"/></text>
+  <text x="278.4" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.449s" fill="freeze"/></text>
+  <text x="286.8" y="234" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.491s" fill="freeze"/></text>
+  <text x="295.2" y="234" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.532s" fill="freeze"/></text>
+  <text x="303.6" y="234" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.574s" fill="freeze"/></text>
+  <text x="312.0" y="234" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.616s" fill="freeze"/></text>
+  <text x="320.4" y="234" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.657s" fill="freeze"/></text>
+  <text x="328.8" y="234" fill="#79c0ff" opacity="0">0<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.699s" fill="freeze"/></text>
+  <text x="337.2" y="234" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.741s" fill="freeze"/></text>
+  <text x="345.6" y="234" fill="#79c0ff" opacity="0">5<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.782s" fill="freeze"/></text>
+  <text x="354.0" y="234" fill="#79c0ff" opacity="0">)<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.824s" fill="freeze"/></text>
+  <text x="362.4" y="234" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.866s" fill="freeze"/></text>
+  <text x="370.8" y="234" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="18.907s" fill="freeze"/></text>
+  <text x="18.0" y="254" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.069s" fill="freeze"/></text>
+  <text x="26.4" y="254" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.111s" fill="freeze"/></text>
+  <text x="34.8" y="254" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.152s" fill="freeze"/></text>
+  <text x="43.2" y="254" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.194s" fill="freeze"/></text>
+  <text x="51.6" y="254" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.236s" fill="freeze"/></text>
+  <text x="60.0" y="254" fill="#79c0ff" opacity="0">C<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.277s" fill="freeze"/></text>
+  <text x="68.4" y="254" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.319s" fill="freeze"/></text>
+  <text x="76.8" y="254" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.361s" fill="freeze"/></text>
+  <text x="85.2" y="254" fill="#79c0ff" opacity="0">F<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.402s" fill="freeze"/></text>
+  <text x="93.6" y="254" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.444s" fill="freeze"/></text>
+  <text x="102.0" y="254" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.486s" fill="freeze"/></text>
+  <text x="110.4" y="254" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.527s" fill="freeze"/></text>
+  <text x="118.8" y="254" fill="#79c0ff" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.569s" fill="freeze"/></text>
+  <text x="127.2" y="254" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.611s" fill="freeze"/></text>
+  <text x="135.6" y="254" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.652s" fill="freeze"/></text>
+  <text x="144.0" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.694s" fill="freeze"/></text>
+  <text x="152.4" y="254" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.736s" fill="freeze"/></text>
+  <text x="160.8" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.777s" fill="freeze"/></text>
+  <text x="169.2" y="254" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.819s" fill="freeze"/></text>
+  <text x="177.6" y="254" fill="#79c0ff" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.861s" fill="freeze"/></text>
+  <text x="186.0" y="254" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.902s" fill="freeze"/></text>
+  <text x="194.4" y="254" fill="#79c0ff" opacity="0">w<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.944s" fill="freeze"/></text>
+  <text x="202.8" y="254" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="19.986s" fill="freeze"/></text>
+  <text x="211.2" y="254" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.027s" fill="freeze"/></text>
+  <text x="219.6" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.069s" fill="freeze"/></text>
+  <text x="228.0" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.111s" fill="freeze"/></text>
+  <text x="236.4" y="254" fill="#79c0ff" opacity="0">(<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.152s" fill="freeze"/></text>
+  <text x="244.8" y="254" fill="#79c0ff" opacity="0">J<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.194s" fill="freeze"/></text>
+  <text x="253.2" y="254" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.236s" fill="freeze"/></text>
+  <text x="261.6" y="254" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.277s" fill="freeze"/></text>
+  <text x="270.0" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.319s" fill="freeze"/></text>
+  <text x="278.4" y="254" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.361s" fill="freeze"/></text>
+  <text x="286.8" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.402s" fill="freeze"/></text>
+  <text x="295.2" y="254" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.444s" fill="freeze"/></text>
+  <text x="303.6" y="254" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.486s" fill="freeze"/></text>
+  <text x="312.0" y="254" fill="#79c0ff" opacity="0">p<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.527s" fill="freeze"/></text>
+  <text x="320.4" y="254" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.569s" fill="freeze"/></text>
+  <text x="328.8" y="254" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.611s" fill="freeze"/></text>
+  <text x="337.2" y="254" fill="#79c0ff" opacity="0">0<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.652s" fill="freeze"/></text>
+  <text x="345.6" y="254" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.694s" fill="freeze"/></text>
+  <text x="354.0" y="254" fill="#79c0ff" opacity="0">5<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.736s" fill="freeze"/></text>
+  <text x="362.4" y="254" fill="#79c0ff" opacity="0">)<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.777s" fill="freeze"/></text>
+  <text x="370.8" y="254" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.819s" fill="freeze"/></text>
+  <text x="379.2" y="254" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="20.861s" fill="freeze"/></text>
+  <text x="18.0" y="274" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.022s" fill="freeze"/></text>
+  <text x="26.4" y="274" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.064s" fill="freeze"/></text>
+  <text x="34.8" y="274" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.106s" fill="freeze"/></text>
+  <text x="43.2" y="274" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.147s" fill="freeze"/></text>
+  <text x="51.6" y="274" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.189s" fill="freeze"/></text>
+  <text x="60.0" y="274" fill="#79c0ff" opacity="0">C<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.231s" fill="freeze"/></text>
+  <text x="68.4" y="274" fill="#79c0ff" opacity="0">T<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.272s" fill="freeze"/></text>
+  <text x="76.8" y="274" fill="#79c0ff" opacity="0">O<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.314s" fill="freeze"/></text>
+  <text x="85.2" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.356s" fill="freeze"/></text>
+  <text x="93.6" y="274" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.397s" fill="freeze"/></text>
+  <text x="102.0" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.439s" fill="freeze"/></text>
+  <text x="110.4" y="274" fill="#79c0ff" opacity="0">G<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.481s" fill="freeze"/></text>
+  <text x="118.8" y="274" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.522s" fill="freeze"/></text>
+  <text x="127.2" y="274" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.564s" fill="freeze"/></text>
+  <text x="135.6" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.606s" fill="freeze"/></text>
+  <text x="144.0" y="274" fill="#79c0ff" opacity="0">D<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.647s" fill="freeze"/></text>
+  <text x="152.4" y="274" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.689s" fill="freeze"/></text>
+  <text x="160.8" y="274" fill="#79c0ff" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.731s" fill="freeze"/></text>
+  <text x="169.2" y="274" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.772s" fill="freeze"/></text>
+  <text x="177.6" y="274" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.814s" fill="freeze"/></text>
+  <text x="186.0" y="274" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.856s" fill="freeze"/></text>
+  <text x="194.4" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.897s" fill="freeze"/></text>
+  <text x="202.8" y="274" fill="#79c0ff" opacity="0">/<animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.939s" fill="freeze"/></text>
+  <text x="211.2" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="21.981s" fill="freeze"/></text>
+  <text x="219.6" y="274" fill="#79c0ff" opacity="0">C<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.022s" fill="freeze"/></text>
+  <text x="228.0" y="274" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.064s" fill="freeze"/></text>
+  <text x="236.4" y="274" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.106s" fill="freeze"/></text>
+  <text x="244.8" y="274" fill="#79c0ff" opacity="0">b<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.147s" fill="freeze"/></text>
+  <text x="253.2" y="274" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.189s" fill="freeze"/></text>
+  <text x="261.6" y="274" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.231s" fill="freeze"/></text>
+  <text x="270.0" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.272s" fill="freeze"/></text>
+  <text x="278.4" y="274" fill="#79c0ff" opacity="0">R<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.314s" fill="freeze"/></text>
+  <text x="286.8" y="274" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.356s" fill="freeze"/></text>
+  <text x="295.2" y="274" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.397s" fill="freeze"/></text>
+  <text x="303.6" y="274" fill="#79c0ff" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.439s" fill="freeze"/></text>
+  <text x="312.0" y="274" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.481s" fill="freeze"/></text>
+  <text x="320.4" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.522s" fill="freeze"/></text>
+  <text x="328.8" y="274" fill="#79c0ff" opacity="0">R<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.564s" fill="freeze"/></text>
+  <text x="337.2" y="274" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.606s" fill="freeze"/></text>
+  <text x="345.6" y="274" fill="#79c0ff" opacity="0">b<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.647s" fill="freeze"/></text>
+  <text x="354.0" y="274" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.689s" fill="freeze"/></text>
+  <text x="362.4" y="274" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.731s" fill="freeze"/></text>
+  <text x="370.8" y="274" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.772s" fill="freeze"/></text>
+  <text x="379.2" y="274" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.814s" fill="freeze"/></text>
+  <text x="387.6" y="274" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.856s" fill="freeze"/></text>
+  <text x="396.0" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.897s" fill="freeze"/></text>
+  <text x="404.4" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.939s" fill="freeze"/></text>
+  <text x="412.8" y="274" fill="#79c0ff" opacity="0">(<animate attributeName="opacity" values="0;1" dur="0.01s" begin="22.981s" fill="freeze"/></text>
+  <text x="421.2" y="274" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.022s" fill="freeze"/></text>
+  <text x="429.6" y="274" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.064s" fill="freeze"/></text>
+  <text x="438.0" y="274" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.106s" fill="freeze"/></text>
+  <text x="446.4" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.147s" fill="freeze"/></text>
+  <text x="454.8" y="274" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.189s" fill="freeze"/></text>
+  <text x="463.2" y="274" fill="#79c0ff" opacity="0">0<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.231s" fill="freeze"/></text>
+  <text x="471.6" y="274" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.272s" fill="freeze"/></text>
+  <text x="480.0" y="274" fill="#79c0ff" opacity="0">4<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.314s" fill="freeze"/></text>
+  <text x="488.4" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.356s" fill="freeze"/></text>
+  <text x="496.8" y="274" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.397s" fill="freeze"/></text>
+  <text x="505.2" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.439s" fill="freeze"/></text>
+  <text x="513.6" y="274" fill="#79c0ff" opacity="0">M<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.481s" fill="freeze"/></text>
+  <text x="522.0" y="274" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.522s" fill="freeze"/></text>
+  <text x="530.4" y="274" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.564s" fill="freeze"/></text>
+  <text x="538.8" y="274" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.606s" fill="freeze"/></text>
+  <text x="547.2" y="274" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.647s" fill="freeze"/></text>
+  <text x="555.6" y="274" fill="#79c0ff" opacity="0">0<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.689s" fill="freeze"/></text>
+  <text x="564.0" y="274" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.731s" fill="freeze"/></text>
+  <text x="572.4" y="274" fill="#79c0ff" opacity="0">5<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.772s" fill="freeze"/></text>
+  <text x="580.8" y="274" fill="#79c0ff" opacity="0">)<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.814s" fill="freeze"/></text>
+  <text x="589.2" y="274" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="23.856s" fill="freeze"/></text>
+  <text x="18.0" y="294" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.017s" fill="freeze"/></text>
+  <text x="26.4" y="294" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.059s" fill="freeze"/></text>
+  <text x="34.8" y="294" fill="#c9d1d9" opacity="0">]<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.101s" fill="freeze"/></text>
+  <text x="43.2" y="294" fill="#c9d1d9" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.142s" fill="freeze"/></text>
+  <text x="18.0" y="314" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.304s" fill="freeze"/></text>
+  <text x="26.4" y="314" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.346s" fill="freeze"/></text>
+  <text x="34.8" y="314" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.387s" fill="freeze"/></text>
+  <text x="43.2" y="314" fill="#56d364" opacity="0">b<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.429s" fill="freeze"/></text>
+  <text x="51.6" y="314" fill="#56d364" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.471s" fill="freeze"/></text>
+  <text x="60.0" y="314" fill="#56d364" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.512s" fill="freeze"/></text>
+  <text x="68.4" y="314" fill="#56d364" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.554s" fill="freeze"/></text>
+  <text x="76.8" y="314" fill="#56d364" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.596s" fill="freeze"/></text>
+  <text x="85.2" y="314" fill="#56d364" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.637s" fill="freeze"/></text>
+  <text x="93.6" y="314" fill="#56d364" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.679s" fill="freeze"/></text>
+  <text x="102.0" y="314" fill="#56d364" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.721s" fill="freeze"/></text>
+  <text x="110.4" y="314" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.762s" fill="freeze"/></text>
+  <text x="118.8" y="314" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.804s" fill="freeze"/></text>
+  <text x="127.2" y="314" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.846s" fill="freeze"/></text>
+  <text x="135.6" y="314" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.887s" fill="freeze"/></text>
+  <text x="144.0" y="314" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.929s" fill="freeze"/></text>
+  <text x="152.4" y="314" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="24.971s" fill="freeze"/></text>
+  <text x="160.8" y="314" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.012s" fill="freeze"/></text>
+  <text x="169.2" y="314" fill="#79c0ff" opacity="0">C<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.054s" fill="freeze"/></text>
+  <text x="177.6" y="314" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.096s" fill="freeze"/></text>
+  <text x="186.0" y="314" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.137s" fill="freeze"/></text>
+  <text x="194.4" y="314" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.179s" fill="freeze"/></text>
+  <text x="202.8" y="314" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.221s" fill="freeze"/></text>
+  <text x="211.2" y="314" fill="#79c0ff" opacity="0">x<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.262s" fill="freeze"/></text>
+  <text x="219.6" y="314" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.304s" fill="freeze"/></text>
+  <text x="228.0" y="314" fill="#79c0ff" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.346s" fill="freeze"/></text>
+  <text x="236.4" y="314" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.387s" fill="freeze"/></text>
+  <text x="244.8" y="314" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.429s" fill="freeze"/></text>
+  <text x="253.2" y="314" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.471s" fill="freeze"/></text>
+  <text x="261.6" y="314" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.512s" fill="freeze"/></text>
+  <text x="270.0" y="314" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.554s" fill="freeze"/></text>
+  <text x="278.4" y="314" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.596s" fill="freeze"/></text>
+  <text x="286.8" y="314" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.637s" fill="freeze"/></text>
+  <text x="295.2" y="314" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.679s" fill="freeze"/></text>
+  <text x="303.6" y="314" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.721s" fill="freeze"/></text>
+  <text x="312.0" y="314" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.762s" fill="freeze"/></text>
+  <text x="320.4" y="314" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.804s" fill="freeze"/></text>
+  <text x="328.8" y="314" fill="#79c0ff" opacity="0">p<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.846s" fill="freeze"/></text>
+  <text x="337.2" y="314" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.887s" fill="freeze"/></text>
+  <text x="345.6" y="314" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.929s" fill="freeze"/></text>
+  <text x="354.0" y="314" fill="#79c0ff" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="25.971s" fill="freeze"/></text>
+  <text x="362.4" y="314" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.012s" fill="freeze"/></text>
+  <text x="370.8" y="314" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.054s" fill="freeze"/></text>
+  <text x="379.2" y="314" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.096s" fill="freeze"/></text>
+  <text x="387.6" y="314" fill="#79c0ff" opacity="0">-<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.137s" fill="freeze"/></text>
+  <text x="396.0" y="314" fill="#79c0ff" opacity="0">f<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.179s" fill="freeze"/></text>
+  <text x="404.4" y="314" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.221s" fill="freeze"/></text>
+  <text x="412.8" y="314" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.262s" fill="freeze"/></text>
+  <text x="421.2" y="314" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.304s" fill="freeze"/></text>
+  <text x="429.6" y="314" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.346s" fill="freeze"/></text>
+  <text x="438.0" y="314" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.387s" fill="freeze"/></text>
+  <text x="446.4" y="314" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.429s" fill="freeze"/></text>
+  <text x="454.8" y="314" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.471s" fill="freeze"/></text>
+  <text x="463.2" y="314" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.512s" fill="freeze"/></text>
+  <text x="471.6" y="314" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.554s" fill="freeze"/></text>
+  <text x="480.0" y="314" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.596s" fill="freeze"/></text>
+  <text x="488.4" y="314" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.637s" fill="freeze"/></text>
+  <text x="496.8" y="314" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.679s" fill="freeze"/></text>
+  <text x="505.2" y="314" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.721s" fill="freeze"/></text>
+  <text x="513.6" y="314" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.762s" fill="freeze"/></text>
+  <text x="522.0" y="314" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.804s" fill="freeze"/></text>
+  <text x="530.4" y="314" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.846s" fill="freeze"/></text>
+  <text x="538.8" y="314" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.887s" fill="freeze"/></text>
+  <text x="547.2" y="314" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.929s" fill="freeze"/></text>
+  <text x="555.6" y="314" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="26.971s" fill="freeze"/></text>
+  <text x="564.0" y="314" fill="#79c0ff" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.012s" fill="freeze"/></text>
+  <text x="572.4" y="314" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.054s" fill="freeze"/></text>
+  <text x="580.8" y="314" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.096s" fill="freeze"/></text>
+  <text x="589.2" y="314" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.137s" fill="freeze"/></text>
+  <text x="597.6" y="314" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.179s" fill="freeze"/></text>
+  <text x="606.0" y="314" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.221s" fill="freeze"/></text>
+  <text x="614.4" y="314" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.262s" fill="freeze"/></text>
+  <text x="622.8" y="314" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.304s" fill="freeze"/></text>
+  <text x="631.2" y="314" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.346s" fill="freeze"/></text>
+  <text x="639.6" y="314" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.387s" fill="freeze"/></text>
+  <text x="18.0" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.549s" fill="freeze"/></text>
+  <text x="26.4" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.591s" fill="freeze"/></text>
+  <text x="34.8" y="334" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.632s" fill="freeze"/></text>
+  <text x="43.2" y="334" fill="#56d364" opacity="0">f<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.674s" fill="freeze"/></text>
+  <text x="51.6" y="334" fill="#56d364" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.716s" fill="freeze"/></text>
+  <text x="60.0" y="334" fill="#56d364" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.757s" fill="freeze"/></text>
+  <text x="68.4" y="334" fill="#56d364" opacity="0">u<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.799s" fill="freeze"/></text>
+  <text x="76.8" y="334" fill="#56d364" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.841s" fill="freeze"/></text>
+  <text x="85.2" y="334" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.882s" fill="freeze"/></text>
+  <text x="93.6" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.924s" fill="freeze"/></text>
+  <text x="102.0" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="27.966s" fill="freeze"/></text>
+  <text x="110.4" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.007s" fill="freeze"/></text>
+  <text x="118.8" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.049s" fill="freeze"/></text>
+  <text x="127.2" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.091s" fill="freeze"/></text>
+  <text x="135.6" y="334" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.132s" fill="freeze"/></text>
+  <text x="144.0" y="334" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.174s" fill="freeze"/></text>
+  <text x="152.4" y="334" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.216s" fill="freeze"/></text>
+  <text x="160.8" y="334" fill="#79c0ff" opacity="0">[<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.257s" fill="freeze"/></text>
+  <text x="169.2" y="334" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.299s" fill="freeze"/></text>
+  <text x="177.6" y="334" fill="#79c0ff" opacity="0">A<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.341s" fill="freeze"/></text>
+  <text x="186.0" y="334" fill="#79c0ff" opacity="0">I<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.382s" fill="freeze"/></text>
+  <text x="194.4" y="334" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.424s" fill="freeze"/></text>
+  <text x="202.8" y="334" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.466s" fill="freeze"/></text>
+  <text x="211.2" y="334" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.507s" fill="freeze"/></text>
+  <text x="219.6" y="334" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.549s" fill="freeze"/></text>
+  <text x="228.0" y="334" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.591s" fill="freeze"/></text>
+  <text x="236.4" y="334" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.632s" fill="freeze"/></text>
+  <text x="244.8" y="334" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.674s" fill="freeze"/></text>
+  <text x="253.2" y="334" fill="#79c0ff" opacity="0">s<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.716s" fill="freeze"/></text>
+  <text x="261.6" y="334" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.757s" fill="freeze"/></text>
+  <text x="270.0" y="334" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.799s" fill="freeze"/></text>
+  <text x="278.4" y="334" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.841s" fill="freeze"/></text>
+  <text x="286.8" y="334" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.882s" fill="freeze"/></text>
+  <text x="295.2" y="334" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.924s" fill="freeze"/></text>
+  <text x="303.6" y="334" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="28.966s" fill="freeze"/></text>
+  <text x="312.0" y="334" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.007s" fill="freeze"/></text>
+  <text x="320.4" y="334" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.049s" fill="freeze"/></text>
+  <text x="328.8" y="334" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.091s" fill="freeze"/></text>
+  <text x="337.2" y="334" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.132s" fill="freeze"/></text>
+  <text x="345.6" y="334" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.174s" fill="freeze"/></text>
+  <text x="354.0" y="334" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.216s" fill="freeze"/></text>
+  <text x="362.4" y="334" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.257s" fill="freeze"/></text>
+  <text x="370.8" y="334" fill="#79c0ff" opacity="0">S<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.299s" fill="freeze"/></text>
+  <text x="379.2" y="334" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.341s" fill="freeze"/></text>
+  <text x="387.6" y="334" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.382s" fill="freeze"/></text>
+  <text x="396.0" y="334" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.424s" fill="freeze"/></text>
+  <text x="404.4" y="334" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.466s" fill="freeze"/></text>
+  <text x="412.8" y="334" fill="#79c0ff" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.507s" fill="freeze"/></text>
+  <text x="421.2" y="334" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.549s" fill="freeze"/></text>
+  <text x="429.6" y="334" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.591s" fill="freeze"/></text>
+  <text x="438.0" y="334" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.632s" fill="freeze"/></text>
+  <text x="446.4" y="334" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.674s" fill="freeze"/></text>
+  <text x="454.8" y="334" fill="#79c0ff" opacity="0">F<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.716s" fill="freeze"/></text>
+  <text x="463.2" y="334" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.757s" fill="freeze"/></text>
+  <text x="471.6" y="334" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.799s" fill="freeze"/></text>
+  <text x="480.0" y="334" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.841s" fill="freeze"/></text>
+  <text x="488.4" y="334" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.882s" fill="freeze"/></text>
+  <text x="496.8" y="334" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.924s" fill="freeze"/></text>
+  <text x="505.2" y="334" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="29.966s" fill="freeze"/></text>
+  <text x="513.6" y="334" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.007s" fill="freeze"/></text>
+  <text x="522.0" y="334" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.049s" fill="freeze"/></text>
+  <text x="530.4" y="334" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.091s" fill="freeze"/></text>
+  <text x="538.8" y="334" fill="#79c0ff" opacity="0">I<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.132s" fill="freeze"/></text>
+  <text x="547.2" y="334" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.174s" fill="freeze"/></text>
+  <text x="555.6" y="334" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.216s" fill="freeze"/></text>
+  <text x="564.0" y="334" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.257s" fill="freeze"/></text>
+  <text x="572.4" y="334" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.299s" fill="freeze"/></text>
+  <text x="580.8" y="334" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.341s" fill="freeze"/></text>
+  <text x="589.2" y="334" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.382s" fill="freeze"/></text>
+  <text x="597.6" y="334" fill="#79c0ff" opacity="0">g<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.424s" fill="freeze"/></text>
+  <text x="606.0" y="334" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.466s" fill="freeze"/></text>
+  <text x="614.4" y="334" fill="#79c0ff" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.507s" fill="freeze"/></text>
+  <text x="622.8" y="334" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.549s" fill="freeze"/></text>
+  <text x="631.2" y="334" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.591s" fill="freeze"/></text>
+  <text x="639.6" y="334" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.632s" fill="freeze"/></text>
+  <text x="648.0" y="334" fill="#79c0ff" opacity="0">]<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.674s" fill="freeze"/></text>
+  <text x="656.4" y="334" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.716s" fill="freeze"/></text>
+  <text x="18.0" y="354" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.877s" fill="freeze"/></text>
+  <text x="26.4" y="354" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.919s" fill="freeze"/></text>
+  <text x="34.8" y="354" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="30.961s" fill="freeze"/></text>
+  <text x="43.2" y="354" fill="#56d364" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.002s" fill="freeze"/></text>
+  <text x="51.6" y="354" fill="#56d364" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.044s" fill="freeze"/></text>
+  <text x="60.0" y="354" fill="#56d364" opacity="0">n<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.086s" fill="freeze"/></text>
+  <text x="68.4" y="354" fill="#56d364" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.127s" fill="freeze"/></text>
+  <text x="76.8" y="354" fill="#56d364" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.169s" fill="freeze"/></text>
+  <text x="85.2" y="354" fill="#56d364" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.211s" fill="freeze"/></text>
+  <text x="93.6" y="354" fill="#56d364" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.252s" fill="freeze"/></text>
+  <text x="102.0" y="354" fill="#56d364" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.294s" fill="freeze"/></text>
+  <text x="110.4" y="354" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.336s" fill="freeze"/></text>
+  <text x="118.8" y="354" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.377s" fill="freeze"/></text>
+  <text x="127.2" y="354" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.419s" fill="freeze"/></text>
+  <text x="135.6" y="354" fill="#56d364" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.461s" fill="freeze"/></text>
+  <text x="144.0" y="354" fill="#c9d1d9" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.502s" fill="freeze"/></text>
+  <text x="152.4" y="354" fill="#c9d1d9" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.544s" fill="freeze"/></text>
+  <text x="160.8" y="354" fill="#79c0ff" opacity="0">{<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.586s" fill="freeze"/></text>
+  <text x="169.2" y="354" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.627s" fill="freeze"/></text>
+  <text x="177.6" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.669s" fill="freeze"/></text>
+  <text x="186.0" y="354" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.711s" fill="freeze"/></text>
+  <text x="194.4" y="354" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.752s" fill="freeze"/></text>
+  <text x="202.8" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.794s" fill="freeze"/></text>
+  <text x="211.2" y="354" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.836s" fill="freeze"/></text>
+  <text x="219.6" y="354" fill="#79c0ff" opacity="0">l<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.877s" fill="freeze"/></text>
+  <text x="228.0" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.919s" fill="freeze"/></text>
+  <text x="236.4" y="354" fill="#79c0ff" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="31.961s" fill="freeze"/></text>
+  <text x="244.8" y="354" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.002s" fill="freeze"/></text>
+  <text x="253.2" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.044s" fill="freeze"/></text>
+  <text x="261.6" y="354" fill="#79c0ff" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.086s" fill="freeze"/></text>
+  <text x="270.0" y="354" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.127s" fill="freeze"/></text>
+  <text x="278.4" y="354" fill="#79c0ff" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.169s" fill="freeze"/></text>
+  <text x="286.8" y="354" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.211s" fill="freeze"/></text>
+  <text x="295.2" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.252s" fill="freeze"/></text>
+  <text x="303.6" y="354" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.294s" fill="freeze"/></text>
+  <text x="312.0" y="354" fill="#79c0ff" opacity="0">1<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.336s" fill="freeze"/></text>
+  <text x="320.4" y="354" fill="#79c0ff" opacity="0">2<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.377s" fill="freeze"/></text>
+  <text x="328.8" y="354" fill="#79c0ff" opacity="0">1<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.419s" fill="freeze"/></text>
+  <text x="337.2" y="354" fill="#79c0ff" opacity="0">1<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.461s" fill="freeze"/></text>
+  <text x="345.6" y="354" fill="#79c0ff" opacity="0">@<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.502s" fill="freeze"/></text>
+  <text x="354.0" y="354" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.544s" fill="freeze"/></text>
+  <text x="362.4" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.586s" fill="freeze"/></text>
+  <text x="370.8" y="354" fill="#79c0ff" opacity="0">h<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.627s" fill="freeze"/></text>
+  <text x="379.2" y="354" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.669s" fill="freeze"/></text>
+  <text x="387.6" y="354" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.711s" fill="freeze"/></text>
+  <text x="396.0" y="354" fill="#79c0ff" opacity="0">.<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.752s" fill="freeze"/></text>
+  <text x="404.4" y="354" fill="#79c0ff" opacity="0">c<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.794s" fill="freeze"/></text>
+  <text x="412.8" y="354" fill="#79c0ff" opacity="0">o<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.836s" fill="freeze"/></text>
+  <text x="421.2" y="354" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.877s" fill="freeze"/></text>
+  <text x="429.6" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.919s" fill="freeze"/></text>
+  <text x="438.0" y="354" fill="#79c0ff" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="32.961s" fill="freeze"/></text>
+  <text x="446.4" y="354" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.002s" fill="freeze"/></text>
+  <text x="454.8" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.044s" fill="freeze"/></text>
+  <text x="463.2" y="354" fill="#79c0ff" opacity="0">w<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.086s" fill="freeze"/></text>
+  <text x="471.6" y="354" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.127s" fill="freeze"/></text>
+  <text x="480.0" y="354" fill="#79c0ff" opacity="0">b<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.169s" fill="freeze"/></text>
+  <text x="488.4" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.211s" fill="freeze"/></text>
+  <text x="496.8" y="354" fill="#79c0ff" opacity="0">:<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.252s" fill="freeze"/></text>
+  <text x="505.2" y="354" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.294s" fill="freeze"/></text>
+  <text x="513.6" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.336s" fill="freeze"/></text>
+  <text x="522.0" y="354" fill="#79c0ff" opacity="0">d<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.377s" fill="freeze"/></text>
+  <text x="530.4" y="354" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.419s" fill="freeze"/></text>
+  <text x="538.8" y="354" fill="#79c0ff" opacity="0">v<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.461s" fill="freeze"/></text>
+  <text x="547.2" y="354" fill="#79c0ff" opacity="0">y<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.502s" fill="freeze"/></text>
+  <text x="555.6" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.544s" fill="freeze"/></text>
+  <text x="564.0" y="354" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.586s" fill="freeze"/></text>
+  <text x="572.4" y="354" fill="#79c0ff" opacity="0">k<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.627s" fill="freeze"/></text>
+  <text x="580.8" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.669s" fill="freeze"/></text>
+  <text x="589.2" y="354" fill="#79c0ff" opacity="0">t<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.711s" fill="freeze"/></text>
+  <text x="597.6" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.752s" fill="freeze"/></text>
+  <text x="606.0" y="354" fill="#79c0ff" opacity="0">r<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.794s" fill="freeze"/></text>
+  <text x="614.4" y="354" fill="#79c0ff" opacity="0">i<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.836s" fill="freeze"/></text>
+  <text x="622.8" y="354" fill="#79c0ff" opacity="0">a<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.877s" fill="freeze"/></text>
+  <text x="631.2" y="354" fill="#79c0ff" opacity="0">.<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.919s" fill="freeze"/></text>
+  <text x="639.6" y="354" fill="#79c0ff" opacity="0">m<animate attributeName="opacity" values="0;1" dur="0.01s" begin="33.961s" fill="freeze"/></text>
+  <text x="648.0" y="354" fill="#79c0ff" opacity="0">e<animate attributeName="opacity" values="0;1" dur="0.01s" begin="34.002s" fill="freeze"/></text>
+  <text x="656.4" y="354" fill="#79c0ff" opacity="0">&quot;<animate attributeName="opacity" values="0;1" dur="0.01s" begin="34.044s" fill="freeze"/></text>
+  <text x="664.8" y="354" fill="#79c0ff" opacity="0"> <animate attributeName="opacity" values="0;1" dur="0.01s" begin="34.086s" fill="freeze"/></text>
+  <text x="673.2" y="354" fill="#79c0ff" opacity="0">}<animate attributeName="opacity" values="0;1" dur="0.01s" begin="34.127s" fill="freeze"/></text>
+  <text x="18.0" y="374" fill="#c9d1d9" opacity="0">}<animate attributeName="opacity" values="0;1" dur="0.01s" begin="34.289s" fill="freeze"/></text>
+  <rect x="228.0" y="40" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="1.906s" begin="0.500s" fill="freeze"/></rect>
+  <rect x="26.4" y="60" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="0.162s" begin="2.406s" fill="freeze"/></rect>
+  <rect x="303.6" y="80" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="1.537s" begin="2.567s" fill="freeze"/></rect>
+  <rect x="253.2" y="100" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="1.287s" begin="4.104s" fill="freeze"/></rect>
+  <rect x="538.8" y="120" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="2.703s" begin="5.391s" fill="freeze"/></rect>
+  <rect x="656.4" y="140" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="3.287s" begin="8.094s" fill="freeze"/></rect>
+  <rect x="169.2" y="160" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="0.870s" begin="11.381s" fill="freeze"/></rect>
+  <rect x="513.6" y="180" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="2.578s" begin="12.251s" fill="freeze"/></rect>
+  <rect x="463.2" y="200" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="2.328s" begin="14.829s" fill="freeze"/></rect>
+  <rect x="379.2" y="220" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="1.912s" begin="17.157s" fill="freeze"/></rect>
+  <rect x="387.6" y="240" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="1.953s" begin="19.069s" fill="freeze"/></rect>
+  <rect x="597.6" y="260" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="2.995s" begin="21.022s" fill="freeze"/></rect>
+  <rect x="51.6" y="280" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="0.287s" begin="24.017s" fill="freeze"/></rect>
+  <rect x="648.0" y="300" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="3.245s" begin="24.304s" fill="freeze"/></rect>
+  <rect x="664.8" y="320" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="3.328s" begin="27.549s" fill="freeze"/></rect>
+  <rect x="681.6" y="340" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.99;1" dur="3.412s" begin="30.877s" fill="freeze"/></rect>
+  <rect x="26.4" y="360" width="7" height="14" fill="#e040fb" opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="34.289s" fill="freeze"/><animate attributeName="opacity" values="1;0;0;1" dur="0.9s" begin="34.389s" repeatCount="indefinite"/></rect>
+</svg>
