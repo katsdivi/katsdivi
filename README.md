@@ -137,9 +137,9 @@
 
 | GitHub | ASU Email | ASU Fulton |
 |:---:|:---:|:---:|
-| [<img src="https://img.icons8.com/ios-glyphs/96/ffffff/github.png" width="70"/>](https://github.com/katsdivi) | [<img src="https://img.icons8.com/color/96/gmail-new.png" width="70"/>](mailto:dkatari3@asu.edu) | [<img src="https://img.icons8.com/color/96/graduation-cap.png" width="70"/>](https://engineering.asu.edu) |
+| [<img src="https://img.icons8.com/ios-glyphs/96/ffffff/github.png" width="70"/>](https://github.com/katsdivi) | [<img src="https://img.icons8.com/color/96/gmail-new.png" width="70"/>](mailto:dkatari2@asu.edu) | [<img src="https://img.icons8.com/color/96/graduation-cap.png" width="70"/>](https://engineering.asu.edu) |
 | **GitHub** | **ASU Email** | **Fulton Engineering** |
-| [/katsdivi](https://github.com/katsdivi) | [dkatari3@asu.edu](mailto:dkatari3@asu.edu) | [CS @ ASU](https://engineering.asu.edu) |
+| [/katsdivi](https://github.com/katsdivi) | [dkatari2@asu.edu](mailto:dkatari2@asu.edu) | [CS @ ASU](https://engineering.asu.edu) |
 
 </div>
 
