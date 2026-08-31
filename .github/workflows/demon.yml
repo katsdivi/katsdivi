@@ -1,0 +1,44 @@
+name: Generate Contribution Demon
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually too
+  push:                     # regenerate immediately when the sprite/render changes
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/demon.yml"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Writes demon.svg + demon-dark.svg to the repo root. Uses the GraphQL
+      # calendar when a token is available and falls back to the public
+      # contributions page otherwise.
+      - name: Generate demon SVG (light + dark)
+        run: node scripts/generate-demon.mjs
+        env:
+          GITHUB_LOGIN: katsdivi
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_DIR: .
+
+      - name: Commit refreshed SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add demon.svg demon-dark.svg
+          git diff --staged --quiet && echo "grid unchanged, nothing to commit" && exit 0
+          git commit -m "chore: refresh contribution demon"
+          git push
