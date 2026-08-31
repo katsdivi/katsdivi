@@ -28,6 +28,30 @@ const LEVEL_MAP = {
   FOURTH_QUARTILE: 4,
 };
 
+const EMPTY_DAY = { date: null, count: 0, level: 0 };
+
+// render.mjs and path.mjs derive the grid height from grid[0].length and then
+// index grid[x][y] for every column, so every week must carry 7 slots. The
+// calendar's first and last weeks are partial (the current week only runs up
+// to today), so days are placed by weekday and the gaps filled.
+function toWeeks(days) {
+  const weeks = [];
+  let week = null;
+  for (const day of days) {
+    const weekday = new Date(`${day.date}T00:00:00Z`).getUTCDay();
+    if (weekday === 0 || week === null) {
+      week = [];
+      weeks.push(week);
+    }
+    week[weekday] = day;
+  }
+  return weeks.map((w) => {
+    const full = [];
+    for (let d = 0; d < 7; d++) full.push(w[d] ?? { ...EMPTY_DAY });
+    return full;
+  });
+}
+
 export async function fetchContributionGrid(login, token) {
   const res = await fetch("https://api.github.com/graphql", {
     method: "POST",
@@ -47,15 +71,20 @@ export async function fetchContributionGrid(login, token) {
     throw new Error(`GitHub GraphQL errors: ${JSON.stringify(json.errors)}`);
   }
 
-  const weeks = json.data.user.contributionsCollection.contributionCalendar.weeks;
+  const weeks = json.data?.user?.contributionsCollection?.contributionCalendar?.weeks;
+  if (!weeks?.length) {
+    throw new Error("GraphQL returned no contribution weeks");
+  }
 
-  return weeks.map((week) =>
+  const days = weeks.flatMap((week) =>
     week.contributionDays.map((day) => ({
       date: day.date,
       count: day.contributionCount,
       level: LEVEL_MAP[day.contributionLevel] ?? 0,
     }))
   );
+
+  return toWeeks(days);
 }
 
 // Scrapes the public contributions calendar, which needs no token. GitHub's
@@ -81,26 +110,8 @@ export async function fetchContributionGridPublic(login) {
     throw new Error("no contribution cells found - GitHub markup may have changed");
   }
 
-  // Bucket days into calendar weeks (columns), Sunday-first, mirroring the
-  // week x day shape fetchContributionGrid returns.
   days.sort((a, b) => a.date.localeCompare(b.date));
-  const weeks = [];
-  let week = null;
-  for (const day of days) {
-    const weekday = new Date(`${day.date}T00:00:00Z`).getUTCDay();
-    if (weekday === 0 || week === null) {
-      week = [];
-      weeks.push(week);
-    }
-    week[weekday] = { date: day.date, count: day.level, level: day.level };
-  }
-
-  // Pad ragged leading/trailing weeks so every column has 7 slots.
-  return weeks.map((w) => {
-    const full = [];
-    for (let d = 0; d < 7; d++) full.push(w[d] ?? { date: null, count: 0, level: 0 });
-    return full;
-  });
+  return toWeeks(days.map((d) => ({ date: d.date, count: d.level, level: d.level })));
 }
 
 // Deterministic fake grid for local iteration without hitting the API.
